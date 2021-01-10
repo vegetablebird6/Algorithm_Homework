@@ -1,6 +1,6 @@
-# Algorithm_Homework
-# maze.py 是迷宫构建和迷宫破解
-# code.py 是岛屿问题
+# Algorithm_Homework:
+	 maze.py 是迷宫构建和迷宫破解
+	 code.py 是岛屿问题
 # 环境: 
 	python 3.6
 # 依赖：
